@@ -4,6 +4,7 @@
 
 ## Технологии
 * Scrapy
+* Python
 
 
 ## Запуск проекта
@@ -12,6 +13,12 @@
 
 ```
 git clone git@github.com:ibonish/scrapy_parser_pep.git
+```
+
+Перейдите в корневую директорию:
+
+```
+cd scrapy_parser_pep
 ```
 
 В корневой директории создайте и активируйте виртуальное окружение:
@@ -39,4 +46,4 @@ scrapy crawl pep
 
 
 ## Автор
-Фасоля ([ibonish](https://ibb.co/k3xBbhy)) 
+Ольга Александровна Скрябина ([ibonish](https://ibb.co/k3xBbhy)) 
